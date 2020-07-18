@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="732" height="214" viewBox="0 0 732 214">
+  <g id="Grupo_5500" data-name="Grupo 5500" transform="translate(-204 -1173)">
+    <text id="Ablandamiento" transform="translate(204 1298)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Ablandamiento</tspan></text>
+    <text id="Pérdida_de_astringencia" data-name="Pérdida de astringencia" transform="translate(370 1298)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="7.254" y="17">Pérdida de astringencia</tspan></text>
+    <text id="Biosíntesis_de_compuestos_responsables_del_aroma" data-name="Biosíntesis de compuestos responsables del aroma" transform="translate(580 1294)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="31.273" y="17">Biosíntesis de </tspan><tspan x="36.828" y="39">compuestos </tspan><tspan x="19.297" y="61">responsables del </tspan><tspan x="58.063" y="83">aroma</tspan></text>
+    <text id="Conversión_del_almidón_en_azúcares" data-name="Conversión del almidón en azúcares" transform="translate(800 1298)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="12.375" y="17">Conversión del </tspan><tspan x="25.941" y="39">almidón en </tspan><tspan x="35.07" y="61">azúcares</tspan></text>
+    <g id="Grupo_5174" data-name="Grupo 5174" transform="translate(208 1173.285)">
+      <ellipse id="Elipse_497" data-name="Elipse 497" cx="54" cy="53.5" rx="54" ry="53.5" transform="translate(0 -0.285)" fill="#266165"/>
+      <path id="Trazado_1178" data-name="Trazado 1178" d="M47.494,0A47.494,47.494,0,1,1,0,47.494,47.494,47.494,0,0,1,47.494,0Z" transform="translate(6.429 6.62)" fill="#266165"/>
+    </g>
+    <g id="Grupo_5175" data-name="Grupo 5175" transform="translate(410.196 1173.285)">
+      <ellipse id="Elipse_497-2" data-name="Elipse 497" cx="53" cy="53.5" rx="53" ry="53.5" transform="translate(-0.196 -0.285)" fill="#42a2a8"/>
+      <path id="Trazado_1178-2" data-name="Trazado 1178" d="M47.494,0A47.494,47.494,0,1,1,0,47.494,47.494,47.494,0,0,1,47.494,0Z" transform="translate(6.206 6.62)" fill="#42a2a8"/>
+    </g>
+    <g id="Grupo_5176" data-name="Grupo 5176" transform="translate(611.27 1173.285)">
+      <ellipse id="Elipse_497-3" data-name="Elipse 497" cx="53" cy="53.5" rx="53" ry="53.5" transform="translate(-0.269 -0.285)" fill="#5eede0"/>
+      <path id="Trazado_1178-3" data-name="Trazado 1178" d="M47.494,0A47.494,47.494,0,1,1,0,47.494,47.494,47.494,0,0,1,47.494,0Z" transform="translate(5.511 6.62)" fill="#5eede0"/>
+    </g>
+    <g id="Grupo_5177" data-name="Grupo 5177" transform="translate(811.219 1173.285)">
+      <ellipse id="Elipse_497-4" data-name="Elipse 497" cx="54" cy="53.5" rx="54" ry="53.5" transform="translate(-0.219 -0.285)" fill="#69e364"/>
+      <path id="Trazado_1178-4" data-name="Trazado 1178" d="M47.494,0A47.494,47.494,0,1,1,0,47.494,47.494,47.494,0,0,1,47.494,0Z" transform="translate(7.343 6.62)" fill="#69e364"/>
+    </g>
+    <text id="_1" data-name="1" transform="translate(252 1198)" fill="#fff" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="39">1</tspan></text>
+    <text id="_2" data-name="2" transform="translate(450 1198)" fill="#fff" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="39">2</tspan></text>
+    <text id="_3" data-name="3" transform="translate(652 1198)" fill="#fff" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="39">3</tspan></text>
+    <text id="_4" data-name="4" transform="translate(850 1198)" fill="#fff" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="39">4</tspan></text>
+    <g id="Grupo_5178" data-name="Grupo 5178" transform="translate(325.948 1182.271)">
+      <rect id="rectangle" width="84" height="85" transform="translate(0.052 -0.272)" fill="none"/>
+      <path id="path" d="M32.08,4,27.166,8.914,46.822,28.57H4v7.02H46.822L27.166,55.246,32.08,60.16,60.16,32.08Z" transform="translate(9.887 9.65)" fill="#266165" fill-rule="evenodd"/>
+    </g>
+    <g id="Grupo_5179" data-name="Grupo 5179" transform="translate(518.034 1182.271)">
+      <rect id="rectangle-2" data-name="rectangle" width="85" height="85" transform="translate(-0.034 -0.272)" fill="none"/>
+      <path id="path-2" data-name="path" d="M32.08,4,27.166,8.914,46.822,28.57H4v7.02H46.822L27.166,55.246,32.08,60.16,60.16,32.08Z" transform="translate(9.428 9.65)" fill="#42a2a8" fill-rule="evenodd"/>
+    </g>
+    <g id="Grupo_5180" data-name="Grupo 5180" transform="translate(719.107 1182.271)">
+      <rect id="rectangle-3" data-name="rectangle" width="85" height="85" transform="translate(-0.107 -0.272)" fill="none"/>
+      <path id="path-3" data-name="path" d="M32.08,4,27.166,8.914,46.822,28.57H4v7.02H46.822L27.166,55.246,32.08,60.16,60.16,32.08Z" transform="translate(10.845 9.65)" fill="#5eede0" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
